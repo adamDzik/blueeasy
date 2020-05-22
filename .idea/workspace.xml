@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2afc59f-77b3-4cf9-958e-c85ffabe7d40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/img/+.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/style/style.css" afterDir="false" />
     </list>
@@ -55,6 +55,9 @@
       <workItem from="1589888333898" duration="16133000" />
       <workItem from="1589908396022" duration="160000" />
       <workItem from="1589908565064" duration="2389000" />
+      <workItem from="1590154501272" duration="6477000" />
+      <workItem from="1590161084846" duration="1638000" />
+      <workItem from="1590168938453" duration="13302000" />
     </task>
     <servers />
   </component>
@@ -78,9 +81,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="716" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589888816758" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1589890684352">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1590176976810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589890684352" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590176976810" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1590181292447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590181292447" />
   </component>
 </project>
